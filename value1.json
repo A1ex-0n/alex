@@ -1,5 +1,8 @@
-[
-  {
+{
+  "version": 4,
+  "changed": true,
+  "petsList": [
+    {
     "image": "/images/pets/Hedgehog.png",
     "rvalue": 54,
     "nvalue": 183,
@@ -41188,5 +41191,6 @@
     "score": 536,
     "id": 2611,
     "rarity": "none"
-  }
-]
+    }
+  ]
+}
