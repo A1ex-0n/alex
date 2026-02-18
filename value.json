@@ -17872,18 +17872,17 @@
     "value": 2.4,
     "status": "Ready",
     "rarity": "legendary",
-    "type": "other",
+    "type": "food",
     "name": "Fly A Pet Potion Forever",
     "score": 12,
     "id": 582
   },
   {
-    " ": "Ride A Pet Potion Forever",
     "image": "/images/pets/Ride A Pet Potion Forever.png",
     "value": 1.25,
     "status": "Ready",
     "rarity": "legendary",
-    "type": "other",
+    "type": "food",
     "name": "Ride A Pet Potion Forever",
     "score": 20,
     "id": 583
@@ -19801,12 +19800,11 @@
     "id": 699
   },
   {
-    " ": "Water Walking Potion",
     "image": "/images/pets/Water Walking Potion.png",
     "value": 56,
     "status": "Ready",
     "rarity": "rare",
-    "type": "other",
+    "type": "food",
     "name": "Water Walking Potion",
     "score": 1,
     "id": 700
@@ -19823,12 +19821,11 @@
     "id": 701
   },
   {
-    " ": "Heart Potion",
     "image": "/images/pets/Heart Potion.png",
     "value": 4.5,
     "status": "Ready",
     "rarity": "uncommon",
-    "type": "other",
+    "type": "food",
     "name": "Heart Potion",
     "score": 7,
     "id": 702
@@ -19839,7 +19836,7 @@
     "value": 7,
     "status": "Ready",
     "rarity": "uncommon",
-    "type": "other",
+    "type": "food",
     "name": "Snowflake Potion",
     "score": 4,
     "id": 703
@@ -19850,7 +19847,7 @@
     "value": 4,
     "status": "Ready",
     "rarity": "ultra rare",
-    "type": "other",
+    "type": "food",
     "name": "Sugar Skull Potion",
     "score": 8,
     "id": 704
@@ -19887,23 +19884,21 @@
     "id": 707
   },
   {
-    " ": "Teleportation Potion",
     "image": "/images/pets/Teleportation Potion.png",
     "value": 2,
     "status": "Ready",
     "rarity": "uncommon",
-    "type": "other",
+    "type": "food",
     "name": "Teleportation Potion",
     "score": 14,
     "id": 708
   },
   {
-    " ": "Levitation Potion",
     "image": "/images/pets/Levitation Potion.png",
     "value": 3,
     "status": "Ready",
     "rarity": "ultra rare",
-    "type": "other",
+    "type": "food",
     "name": "Levitation Potion",
     "score": 10,
     "id": 709
@@ -41333,7 +41328,7 @@
     "value": 0.8,
     "status": "Ready",
     "rarity": "legendary",
-    "type": "other",
+    "type": "food",
     "name": "Golden Seed Ball",
     "score": 31,
     "id": 2617
