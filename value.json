@@ -41661,7 +41661,6 @@
     "id": 2630
   },
   {
-    " ": "Fire Stallion",
     "image": "/images/pets/Fire Stallion.png",
     "rvalue": 0.3,
     "nvalue": 3,
@@ -41691,6 +41690,37 @@
     "name": "Fire Stallion",
     "score": 207,
     "id": 2631
-    }
-  ]
-}
+    },
+    {
+      "image": "/images/pets/Dire Wolf.png",
+      "rvalue": 0.2,
+      "nvalue": 2.5,
+      "mvalue": 8.5,
+      "status": "Ready",
+      "rvalue - nopotion": 0.2,
+      "rvalue - ride": 0.45,
+      "rvalue - fly": 0.45,
+      "rvalue - fly&ride": 0.7,
+      "nvalue - nopotion": 1,
+      "nvalue - ride": 1.75,
+      "nvalue - fly": 1.75,
+      "nvalue - fly&ride": 2.5,
+      "mvalue - nopotion": 5.5,
+      "mvalue - ride": 6.75,
+      "mvalue - fly": 6.75,
+      "mvalue - fly&ride": 8.5,
+      "fly&ride?": "\"false\"",
+      "rarity": "ultra rare",
+      "type": "pets",
+      "categoryd": null,
+      "categoryn": null,
+      "categorym": null,
+      "categorypreppyd": null,
+      "categorypreppyn": null,
+      "categorypreppym": null,
+      "name": "Dire Wolf",
+      "score": 122,
+      "id": 2632
+      }
+    ]
+  }
